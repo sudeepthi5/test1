@@ -1,5 +1,5 @@
 I have taken the data set from the KAGGLE. The provided link redirects to the dataset that I’m going to use for my analysis in R.
- https://www.kaggle.com/datasets/anandhuh/latest-covid19-india-statewise-data
+ # https://www.kaggle.com/datasets/anandhuh/latest-covid19-india-statewise-data
 
 Package: Su2022 (I named my open package by this name)
 Title: State-wise Covid19 cases analysis in India
