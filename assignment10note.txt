@@ -1,0 +1,17 @@
+I have taken the data set from the KAGGLE. The provided link redirects to the dataset that I’m going to use for my analysis in R.
+ https://www.kaggle.com/datasets/anandhuh/latest-covid19-india-statewise-data
+
+Package: Su2022 (I named my open package by this name)
+Title: State-wise Covid19 cases analysis in India
+Version: 0.1
+Authors: Sudeepthi Vejendla, sudeepthivejendla@usf.edu
+Description: 
+Through this package, we analyze state-wise reported Covid19 cases with the obtained data by performing different numerical and 
+descriptive methods to find several factors like the total number of cases and the subsets in total cases, mean of cases in different states, 
+sort the total number of cases in order to get the top five states with the highest number of cases. 
+Also visualization of this Covid19 data with descriptive commands showing the data graphically with pie-charts and graphs, etc. 
+This dataset consists of multiple variables which can be compared with each other to do the complete analysis. 
+My final motto is to deliver the overall covid19 spread in India by analyzing all the given factors.
+Depends: R version 3.1.4 packages
+License: CCO, to keep my package open
+Lazydata: True
